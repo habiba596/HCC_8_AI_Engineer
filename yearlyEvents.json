@@ -1,0 +1,171 @@
+{
+  "year": 2026,
+  "events": [
+    {
+      "eventName": "سقوط نجوم كوادرانتيدس",
+      "dateTimeISO": "2026-01-04T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شمال",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية"
+      ],
+      "description": "قمة سحابة كوادرانتيدس النيزكية، تُرى في ساعات الفجر الأولى."
+    },
+    {
+      "eventName": "اقتراب الزهرة وعطارد",
+      "dateTimeISO": "2026-01-28T06:45:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "أوروبا الغربية",
+        "شمال أفريقيا",
+        "الشرق الأوسط",
+        "شرق آسيا"
+      ],
+      "description": "تقارب واضح للزهرة وعطارد في الصباح الباكر، يظهران قريبين من بعضهما في السماء."
+    },
+    {
+      "eventName": "سقوط نجوم ليريدس",
+      "dateTimeISO": "2026-04-22T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية"
+      ],
+      "description": "قمة سحابة ليريدس النيزكية، تُفضل المشاهدة في ساعات الصباح الأولى."
+    },
+    {
+      "eventName": "كسوف شمسي حلقي",
+      "dateTimeISO": "2026-02-17T10:30:00Z",
+      "isNakedEyeVisible": false,
+      "viewingDirection": "جنوب شرقي",
+      "locations": [
+        "جنوب أفريقيا",
+        "أمريكا الجنوبية",
+        "قطب جنوب"
+      ],
+      "description": "كسوف حلقي يمر عبر القارة القطبية الجنوبية، ويمكن رؤيته جزئياً في جنوب أفريقيا وأمريكا الجنوبية."
+    },
+    {
+      "eventName": "كسوف قمري كلي",
+      "dateTimeISO": "2026-02-21T02:30:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "آسيا",
+        "أفريقيا",
+        "أستراليا",
+        "أمريكا الشمالية"
+      ],
+      "description": "كسوف كامل يضيء القمر بلون أحمر مميز، يُرى في معظم نصف الكرة الشرقي."
+    },
+    {
+      "eventName": "كسوف شمسي كلي",
+      "dateTimeISO": "2026-08-12T17:45:00Z",
+      "isNakedEyeVisible": false,
+      "viewingDirection": "شرق",
+      "locations": [
+        "غرينلاند",
+        "آيسلندا",
+        "إسبانيا",
+        "القطب الشمالي"
+      ],
+      "description": "مسار كسوف كامل يمر عبر القطب الشمالي، غرينلاند وإيسلندا وإسبانيا، مع ظلام كامل في مسار الخط المركزي."
+    },
+    {
+      "eventName": "كسوف قمري جزئي",
+      "dateTimeISO": "2026-08-28T04:12:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "غرب",
+      "locations": [
+        "أمريكا الشمالية",
+        "أوروبا",
+        "غرب أفريقيا"
+      ],
+      "description": "جزء من القمر يدخل ظل الأرض، يُرى في نصف الكرة الغربي."
+    },
+    {
+      "eventName": "مقربة كوكب المشتري",
+      "dateTimeISO": "2026-09-14T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية",
+        "النصف الجنوبي من الكرة الأرضية"
+      ],
+      "description": "المشتري في أقرب نقطة له من الأرض ويظهر بأعلى سطوعه، يشرق في السماء الشرقية بعد الغسق."
+    },
+    {
+      "eventName": "مقربة زحل",
+      "dateTimeISO": "2026-08-14T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية",
+        "النصف الجنوبي من الكرة الأرضية"
+      ],
+      "description": "زحل في أقرب نقطة له من الأرض، يُرى في السماء الشرقية مع حلقاته واضحة."
+    },
+    {
+      "eventName": "قمر كامل فائق",
+      "dateTimeISO": "2026-04-24T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "العالم كله"
+      ],
+      "description": "قمر كامل قريب من أقرب نقطة له إلى الأرض، يظهر بحجم سطوع أكبر من المعتاد."
+    },
+    {
+      "eventName": "قمر كامل فائق",
+      "dateTimeISO": "2026-09-18T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "العالم كله"
+      ],
+      "description": "قمر كامل في موضع قريب من الأرض، ينتج عنه ظهور واضح وضوء أقوى."
+    },
+    {
+      "eventName": "سقوط نجوم بريسكيد",
+      "dateTimeISO": "2026-08-13T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية"
+      ],
+      "description": "أحد أقوى سحابات النيازك، يُرى في ساعات الصباح الأولى من ليلة 13 أغسطس."
+    },
+    {
+      "eventName": "سقوط نجوم أورايونيدس",
+      "dateTimeISO": "2026-10-21T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "العالم كله (يفضل في النصف الشمالي)"
+      ],
+      "description": "تساقط نيازك من مجموعة أورايون، يفضل المشاهدة بعد منتصف الليل."
+    },
+    {
+      "eventName": "سقوط نجوم ليونيدس",
+      "dateTimeISO": "2026-11-17T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "العالم كله"
+      ],
+      "description": "نقطة ذروة سحابة ليونيدس النيزكية، مع نيازك سريعة ومتقطعة."
+    },
+    {
+      "eventName": "سقوط نجوم الجيمينييدس",
+      "dateTimeISO": "2026-12-14T00:00:00Z",
+      "isNakedEyeVisible": true,
+      "viewingDirection": "شرق",
+      "locations": [
+        "النصف الشمالي من الكرة الأرضية",
+        "النصف الجنوبي من الكرة الأرضية (محدودة)"
+      ],
+      "description": "قمة سحابة الجيمينييدس، تُعد أقوى سحابة نيزك شتوية."
+    }
+  ]
+}
